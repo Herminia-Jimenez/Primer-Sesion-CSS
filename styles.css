@@ -4,15 +4,23 @@ h1 {
 
 }
 
-
+ol li {
+    color: #46484c;
 }
-.cabecera{
-    color: red
 
-
-
-
-}
 body {
-    color: #fffbf7;
+    background-color: #fffbf7;
+}
+
+p {
+    color: gray;
+}
+
+button{
+    background-color: #025157;
+    color:#fff;
+}
+
+strong{
+    color: chocolate;
 }
