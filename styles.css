@@ -24,3 +24,18 @@ button{
 strong{
     color: chocolate;
 }
+
+ul {
+    display: inline-flex;
+    list-style: none;
+    padding: 0;
+    
+  } 
+  .block,
+  li {
+    border: 2px solid blue;
+    padding: .5em;
+    content: 20px;
+    width: 350px;
+    height: 30px;
+  }
